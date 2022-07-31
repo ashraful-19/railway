@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: solaimanlipi, sans-serif;
+  background: #ffffff;
+  height: 100%;
+  font-family: 'SolaimanLipi', Arial, sans-serif !important;
+}
+
+.icon {
+  margin-top: 8px;
+  height: 23px;
+  width: auto;
+}
+.icon-dp {
+  margin-top: 2px;
+  height: 40px;
+  width: auto;
+}
+
+.Bottom-nav {
+  z-index: 455;
+  position: fixed;
+  bottom: 0px;
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  width: 100%;
+  text-align: center;
+  height: 60px;
+  background-color: #ffffff;
+}
+
+.bottom {
+  padding-top: 0px;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.bottom p {
+  font-size: 13px;
+  margin: 0px;
+  margin-top: 0px;
+  padding: 0px;
+}
+
+h6.mid-align {
+  display: block;
+  margin-left: 55px;
+  color: rgba(0, 53, 212, 0.772);
+  font-weight: 100;
+  font-size: 20px;
+}
+
+div.top-bottom {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 8px;
+}
+
+.lec {
+  border-radius: 0px;
+
+  font-size: 14px;
+  width: 100%;
+
+  overflow: scroll;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  font-family: 'SolaimanLipi', Arial, sans-serif !important;
+}
+
+.lecName {
+  padding: 10px 15px 10px 15px;
+  font-size: 15px;
+}
+
+.vid {
+  
+position: fixed;
+width: 100%;
+  top: 0px;
+  
+}
+
